@@ -1,11 +1,6 @@
 # GeoNetAnalysis
-Haifeng Li et al., Comprehensive Geographic Networks Analysis: Statistical, Geometric and Algebraic Perspectives.
-
-## Author Biography
-Haifeng Li (M’15) received the master’s degree in transportation engineering from the South China University of Technology, Guangzhou, China, in 2005, and the Ph.D. degree in photogrammetry and remote sensing from Wuhan University, Wuhan, China, in 2009. He is currently a Professor with the School of Geosciences and Info-Physics, Central South University, Changsha, China. He was a Research Associate with the Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong, in 2011, and a Visiting Scholar with the University of Illinois at Urbana-Champaign, Urbana, IL, USA, from 2013 to 2014. He has authored over 30 journal papers. His current research interests include geo/remote sensing big data, machine/deep learning, and artificial/brain-inspired intelligence. He is a reviewer for many journals.
 
 ## Contact
-Please contact [Haifeng Li](http://faculty.csu.edu.cn/lihaifeng/zh_CN/index.htm).
 
 ## Software Requirement
 *Python
